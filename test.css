@@ -1,0 +1,19 @@
+.card{
+    margin-left:1rem; 
+    border-radius:2px; 
+    border-style: solid; 
+    border-color:black; 
+    border-width:1px; 
+    padding:0 1rem; 
+    border-radius:2rem; 
+    width:18rem;
+}
+
+.card:hover{
+    background-color: rgb(255, 255, 229);
+}
+
+.link{
+    text-decoration:none;
+    color:black;
+}
